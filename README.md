@@ -34,7 +34,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <img src="https://images.credly.com/size/340x340/images/7671b89f-4102-455a-be3a-0413b734a59b/IBM-Blockchain-Foundation-Developer-V2.png" width="80px">
   <img src="https://images.credly.com/size/340x340/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png" width="80px">
   <img src="https://images.credly.com/size/340x340/images/edc3e3ad-2aed-42c7-85bb-f7a351e41f3f/IT_Automation_with_Python_2_2x__1_.png" width="80px">
-  <img src="
 <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br>
