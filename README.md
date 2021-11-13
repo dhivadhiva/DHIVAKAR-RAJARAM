@@ -19,6 +19,13 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <h4>Badges</h4>     
   <img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="80px">
   <img src="https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/747c6cdd-e728-446a-8e32-bbfb58fc04c7/Deep_Learning_-_Knowledge_2_Stars.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/28d68d08-7a26-4868-be2e-7bf32eeab4f8/Deep_Learning_Using_TensorFlow.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png" width="80px">
 <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br>
