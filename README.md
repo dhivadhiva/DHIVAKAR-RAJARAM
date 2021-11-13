@@ -30,4 +30,4 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>
 
-<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
+<h1 align="center">Have a nice day! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
