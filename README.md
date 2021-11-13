@@ -26,6 +26,14 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" width="80px">
   <img src="https://images.credly.com/size/340x340/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png" width="80px">
   <img src="https://images.credly.com/size/340x340/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/7671b89f-4102-455a-be3a-0413b734a59b/IBM-Blockchain-Foundation-Developer-V2.png" width="80px">
+  <img src="https://images.credly.com/size/340x340/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png" width="80px">
+  <img src=" https://images.credly.com/size/340x340/images/edc3e3ad-2aed-42c7-85bb-f7a351e41f3f/IT_Automation_with_Python_2_2x__1_.png" width="80px">
 <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br>
