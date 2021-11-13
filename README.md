@@ -18,7 +18,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <h4>Badges</h4>     
   <img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="80px">
-  
+  <img src="https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" width="80px">
 <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br>
