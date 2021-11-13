@@ -28,9 +28,10 @@ If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
       <img width="20px" src="/assests/gmail.svg" />
   </a></p>
 </div>
+</br>
 <br>
 ## Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dhivakar-rajaram/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/dhivakar1010)
-<br>
+</br>
 <h1 align="center">Have a nice day! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
