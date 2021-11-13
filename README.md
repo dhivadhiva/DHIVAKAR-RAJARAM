@@ -8,6 +8,14 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 
 <div align="center">
+  
+  
+  <h4>Languages</h4>     
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
+  
+  
+  
 <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br><br>
